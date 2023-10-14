@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "portfolio",
+  "short_name": "Khizri's Portfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Khizri Makhmudov's portfolio website built with Qwik"
+}
